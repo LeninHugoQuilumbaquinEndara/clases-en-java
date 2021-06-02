@@ -9,5 +9,6 @@ public class PruebaMatematica{
        int res = ob1.sumar1();
        System.out.println("res = "+res);
        System.out.println("El resultado de la suma es  = "+ob1.sumar1());
+       ob1.sumar2 (10,15);
     }
 }
